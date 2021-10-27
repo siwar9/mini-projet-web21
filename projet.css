@@ -1,0 +1,94 @@
+body {
+      background-image: url("joanna-kosinska-9gfGDbxuqrU-unsplash.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      font-family: "Raleway", Arial, sans-serif;
+}
+
+
+h1 {
+    font-family: "Raleway", Arial, sans-serif;
+    letter-spacing: 6px;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+header{
+    position: absolute;
+    top:200px;
+    left:200px;
+    width:800px;
+    height:300px;
+    padding: 40px;
+    background-color: white;
+    text-align: center;
+}
+
+section {
+    position: absolute;
+    top:1000px;
+    background-color: white;
+}
+
+
+.w3-row-padding img {margin-bottom: 12px;}
+
+.borderpink {
+    border:1px solid gray!important
+}
+
+.activepink {
+    background-color: gray;
+}
+
+.buttonpink {
+    background: transparent;
+    text-decoration: none;
+}
+
+.buttonpink:hover {
+    background-color: gray;
+}
+
+
+div h2 {
+    margin-left: 20px;
+    font-family: "Raleway", Arial, sans-serif;
+    color: rgb(38, 69, 156);
+    font-weight: bold;
+}
+
+
+.col-4 img {
+    position: absolute;
+    right: 30px;
+    top:30px;
+    height: 300px;
+}
+
+.col-8 .parag{
+    padding: 20px;
+    width: 60%;
+}
+
+.col-6 .parag{
+    Width: 40%;
+    position:absolute;
+    right: 30px;
+    top:500px;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    top: 2200px;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    background-color: #cefc91;
+    color: #fff;
+}
+
