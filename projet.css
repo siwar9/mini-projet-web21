@@ -42,6 +42,15 @@ section {
     background-color: white;
 }
 
+.section3{
+    position: absolute;
+    top:100px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
 .btn{
     color:black;
     background:#cefc91;
@@ -125,3 +134,13 @@ footer {
     color: #fff;
 }
 
+#footer2 {
+    position: absolute;
+    left: 0;
+    top: 800px;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    background-color: #cefc91;
+    color: #fff;
+}
